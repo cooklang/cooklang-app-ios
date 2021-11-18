@@ -1,6 +1,6 @@
 # Cooklang App for iOS
 
-Meta repository for bug reports and discussions about Cooklang iOS app.
+Meta repository for [bug reports](https://github.com/cooklang/cooklang-ios-app/issues) and [discussions](https://github.com/cooklang/cooklang-ios-app/discussions) about Cooklang iOS app.
 
 ## About
 
